@@ -31,28 +31,28 @@ global.sig = 'https://instagram.com/danibotz_official'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
 global.sgh = 'https://github.com/YTDANIBOTZ'
 global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6281348106274'
+global.swa = 'wa.me/6281246711289'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081348106274'
+global.pdana = '081246711289'
+global.povo = '081246711289'
+global.pgopay = '081246711289'
+global.ppulsa = '081246711289'
+global.ppulsa2 = '081246711289'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281352848936'
-global.nomorown = '6281348106274'
-global.namebot = 'DaniBotzラ'
-global.nameown = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
+global.nomorbot = '6285852939370'
+global.nomorown = '6281246711289'
+global.namebot = 'NiluhBotzラ'
+global.nameown = 'ᴹᴿ᭄ Niluhchan ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281348106274', 'ᴹᴿ᭄ DaniXd? ×፝֟͜×', 'true']
+  ['6281246711289', 'ᴹᴿ᭄ Niluh? ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,14 +96,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'DaniBotzラ | By ᴹᴿ᭄ DaniXd ×፝֟͜×' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
-global.wm3 = 'DaniBotzラ | By ᴹᴿ᭄ DaniXd ×፝֟͜×'
+global.wm = 'NiluhBotzラ | By ᴹᴿ᭄ Niluhchan ×፝֟͜×' //Main Watermark
+global.wm2 = 'ᴹᴿ᭄ Niluh ×፝֟͜×'
+global.wm3 = 'NiluhBotzラ | By ᴹᴿ᭄ Niluhchan ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `DaniBotzラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ DaniXd ×፝֟͜×' 
-global.packname = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
+global.titlebot = `NiluhBotzラ | ʙʏ ${global.nameown}`
+global.author = 'ᴹᴿ᭄ Niluhchan ×፝֟͜×' 
+global.packname = 'ᴹᴿ᭄ Niluhchan ×፝֟͜×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
@@ -119,10 +119,10 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya DaniBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
-global.umurowner = '22'
-global.asalowner = 'Kalimantan, Banjar'
-global.nomorowner = 'wa.me/6281348106274'
+global.nameowner = 'ᴹᴿ᭄ NiluhJatim ×፝֟͜×'
+global.umurowner = 'kepo'
+global.asalowner = 'Jawa, Timur'
+global.nomorowner = 'wa.me/6281246711289'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
